@@ -2,7 +2,6 @@
 .device,
 .device::before,
 .device::after,
-.device *,
 .device *::before,
 .device *::after {
   box-sizing: border-box;
